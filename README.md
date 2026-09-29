@@ -129,7 +129,7 @@
       background: rgba(13, 17, 23, 0.85);
       backdrop-filter: blur(20px);
       border: 1px solid rgba(255, 255, 255, 0.12);
-      border-radius: 50px;
+      border-radius: 50px; 
       padding: 8px 12px;
       box-shadow: 0 16px 40px rgba(0, 0, 0, 0.6);
       pointer-events: auto;
